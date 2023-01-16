@@ -67,3 +67,4 @@ if __name__ == "__main__":
     print("salary of emp2: ", emp2.salary)
     emp2.salary = 3338382882828282828
     print("salary of emp2: ", emp2.salary)
+    
